@@ -14,3 +14,5 @@ We are currentely working on linking the tutor and parent forms with this sheet 
 # Where does this data go?
 The matches that output will go into another google sheet, which is set up to email the tutor and parent with all the relevant info. After this email, they are officially matched and can start tutoring!
 
+# Other Info
+I added a ".gs" and a ".js" file with the same code. The code was written in a ".gs" file, but I added a ".js" file for more convenience and accessibility.

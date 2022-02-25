@@ -9,7 +9,7 @@ In this sheet, there are three sections: a tutor section, a student section, and
 ["PARENT EMAIL", "TUTOR EMAIL", "STUDENT NAME", "STUDENT PRONOUNS", "STUDENT GRADE", "PARENT COMMENTS", "TUTOR NAME", "TUTOR PRONOUNS", "TUTOR YEAR", "TUTOR SCHOOL", "TUTOR MAJOR", "SESSION LENGTH", "SESSIONS PER WEEK", "AVAILABILITY","STUDENT START DATE", "TUTOR START DATE", "STUDENT TIME ZONE", "TUTOR TIME ZONE"]
 
 # How does this data get into the sheet?
-We are currentely working on linking the tutor and parent forms with this sheet that contains the software. These forms are also google sheets which are automatically populated when a parent or a tutor submits the google signup form from our website (learninglodge.org).
+We are currently working on linking the tutor and parent forms with this sheet that contains the software. This will let the original form sheet automatically send data to this one when updated. These forms are also google sheets which are automatically populated when a parent or a tutor submits the google signup form from our website (learninglodge.org).
 
 # Where does this data go?
 The matches that output will go into another google sheet, which is set up to email the tutor and parent with all the relevant info. After this email, they are officially matched and can start tutoring!

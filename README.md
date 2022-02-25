@@ -1,2 +1,2 @@
-# LearningLodgeMatchingSoftware
+# Learning Lodge Matching Software
 A matching software for students and tutors based on Google's App Script API. Much of the code references Google Sheets specific to the organization, like our tutor form and parent forms. Thus, some of the references to certain row and column numbers only apply to the documents I based my code off of. This was intended to not scale or be abstracted, mainly because our needs were very specific and likely won't change in the near future. However, much of the comparison algorithms in the code are simple and widely applicable.

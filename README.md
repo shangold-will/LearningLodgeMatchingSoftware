@@ -3,7 +3,7 @@
 Learning Lodge is a national online tutoring organization founded by two WashU Alumni: Lily Xu and Alex Hu. Created in the wake of the Covid-19 Pandemic, Learning Lodge employs college students from around the country as volunteer tutors. We offer free video chat tutoring sessions between our tutors and students, who are primarily in kindergarten through 8th grade. We mainly tutor in Math, Science, English, Social Studies and Foreign Language classes! [Here](https://www.learninglodge.org "Learning Lodge") is the link to our website to learn more!:)
 
 ## Learning Lodge Matching Software
-A matching software for students and tutors based on Google's App Script API. Much of the code references Google sheets that are specific to the organization, like our tutor form and parent forms. Thus, some of the references to certain row and column numbers only apply to the documents I based my code off of. This was intended to not scale or be abstracted, mainly because our needs were very specific and likely won't change in the near future. However, much of the comparison algorithms in the code are simple and widely applicable.
+A matching software for students and tutors based on Google's Apps Script API. Much of the code references Google sheets that are specific to the organization, like our tutor form and parent forms. Thus, some of the references to certain row and column numbers only apply to the documents I based my code off of. This was intended to not scale or be abstracted, mainly because our needs were very specific and likely won't change in the near future. However, much of the comparison algorithms in the code are simple and widely applicable.
 
 ## Description of Source Google Sheet
 Because the Google sheet includes private information of tutors and students, I can't include it in this repository. Below is a description of this sheet, in order to understand the code better.
@@ -20,3 +20,6 @@ The matches that output will go into another google sheet, which is set up to em
 
 ### Other Info
 I added a ".gs" and a ".js" file with the same code. The code was written in a ".gs" file, but I added a ".js" file for more convenience and accessibility.
+
+### References
+[Here](https://developers.google.com/apps-script/reference "Google Apps Script API Reference Page") is a link to the Reference page of Google's Scripting API

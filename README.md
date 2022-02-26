@@ -1,5 +1,5 @@
 ![alt text](https://github.com/shangold-will/LearningLodgeMatchingSoftware/raw/main/learninglodge_logo_blue.png "Learning Lodge Logo")
-# 
+# Who are we?
 Learning Lodge is a national online tutoring organization founded by two WashU Alumni: Lily Xu and Alex Hu. Created in the wake of the Covid-19 Pandemic, Learning Lodge employs college students from around the country as volunteer tutors. We offer free video chat tutoring sessions between our tutors and students, who are primarily in kindergarten through 8th grade. We mainly tutor in Math, Science, English, Social Studies and Foreign Language classes! [Here](https://www.learninglodge.org "Learning Lodge") is the link to our website to learn more!:)
 
 ## Learning Lodge Matching Software

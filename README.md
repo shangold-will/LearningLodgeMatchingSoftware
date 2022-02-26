@@ -9,9 +9,9 @@ A matching software for students and tutors based on Google's App Script API. Mu
 Because the Google sheet includes private information of tutors and students, I can't include it in this repository. Below is a description of this sheet, in order to understand the code better.
 
 In this sheet, there are three sections: a tutor section, a student section, and an output. Each one is titled, and consists of a certain number of data rows. Each row represents one tutor/student, with all representative information. When the program runs, the rows below/after the "Output" title are automatically filled with the matches (one per row), and the important info for each. Here is an array that represents all the info that is exported into the sheet, per match:
-
+```javascript
 ["PARENT EMAIL", "TUTOR EMAIL", "STUDENT NAME", "STUDENT PRONOUNS", "STUDENT GRADE", "PARENT COMMENTS", "TUTOR NAME", "TUTOR PRONOUNS", "TUTOR YEAR", "TUTOR SCHOOL", "TUTOR MAJOR", "SESSION LENGTH", "SESSIONS PER WEEK", "AVAILABILITY","STUDENT START DATE", "TUTOR START DATE", "STUDENT TIME ZONE", "TUTOR TIME ZONE"]
-
+```
 ### How does this data get into the sheet?
 We are currently working on linking the tutor and parent forms with this sheet that contains the software. This will let the original form sheet automatically send data to this one when updated. These forms are also google sheets which are automatically populated when a parent or a tutor submits the google signup form from our website (learninglodge.org).
 

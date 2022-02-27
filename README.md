@@ -19,7 +19,7 @@ We are currently working on linking the tutor and parent forms with this sheet t
 The matches that output will be sent into another linked google sheet, which is set up to email the tutor and parent with all the relevant info. After this email, they are officially matched and can start tutoring!
 
 ### Other Info
-I added a ".gs" and a ".js" file with the same code. The code was written in a ".gs" file, but I added a ".js" file for more convenience and accessibility.
+I added a ".gs" and a ".js" main file with the same code. The code was written in a ".gs" file, but I added a ".js" file for more convenience and accessibility. Also, please note that the instructions at the top of all ".gs" and ".js" files are directed to those running the files from the Google source sheet (for those in the organization who are running the matches). 
 
 ### References
 [Here](https://developers.google.com/apps-script/reference "Google Apps Script API Reference Page") is a link to the Reference page of Google's Scripting API

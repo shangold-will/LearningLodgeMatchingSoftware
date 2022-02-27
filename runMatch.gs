@@ -1,5 +1,5 @@
 /** INSTRUCTIONS:
- * 1. Go to "LLMatch1.gs" file
+ * 1. Go to "LLMatch.gs" file
  * 2. Edit the four variables at the top to match the data on the sheet
  * 3. Come back to the "runMatch.gs" file (this file)
  * 4. Press Run!!

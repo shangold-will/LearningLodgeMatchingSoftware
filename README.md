@@ -16,7 +16,7 @@ In this sheet, there are three sections: a tutor section, a student section, and
 We are currently working on linking the tutor and parent forms with this sheet that contains the software. This will let the original form sheet automatically send data to this one when updated. These forms are also google sheets which are automatically populated when a parent or a tutor submits the google signup form from our website (learninglodge.org).
 
 ### Where does this data go?
-The matches that output will be sent into another linked google sheet, which is set up to email the tutor and parent with all the relevant info. After this email, they are officially matched and can start tutoring!
+The outputted matches will be sent into another linked google sheet. This linked sheet is set up to email the tutor and parent with all the relevant info. After this email, they are officially matched and can start tutoring!
 
 ### Other Info
 I added a ".gs" and a ".js" main file with the same code. The code was written in a ".gs" file, but I added a ".js" file for more convenience and accessibility. Also, please note that the instructions at the top of all ".gs" and ".js" files are directed to those running the files from the Google source sheet (for those in the organization who are running the matches). 
